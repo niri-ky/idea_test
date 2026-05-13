@@ -1,0 +1,26 @@
+<annotation>
+	<folder>test</folder>
+	<filename>4.jpg</filename>
+	<path>D:\HuaweiMoveData\Users\刘宗元\Desktop\my_plate_dataset\images\test\4.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>2268</width>
+		<height>1279</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>plate</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>673</xmin>
+			<ymin>490</ymin>
+			<xmax>1263</xmax>
+			<ymax>777</ymax>
+		</bndbox>
+	</object>
+</annotation>

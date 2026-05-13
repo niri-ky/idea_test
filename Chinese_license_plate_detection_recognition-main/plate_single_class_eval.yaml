@@ -1,0 +1,5 @@
+# 单类别车牌检测评估配置文件
+test: ./plate_eval_dataset/images/test/
+# 类别信息 (核心改动在这里)
+nc: 1                               # 类别数量现在是 1
+names: ['plate']            # 类别名称列表里只有一项
